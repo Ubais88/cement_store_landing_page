@@ -9,7 +9,8 @@ export const products: Product[] = [
     description:
       "High-quality utlratech cement suitable for all construction needs. Meets ASTM standards.",
     price: "400 - ₹420 per bag",
-    image: "../assets/ultratechbag.jpg",
+    image:
+      "https://snapdevelopmentstorage.blob.core.windows.net/account-1/KebMKDwpHxZdsKOSwY-dG/ultratechbag.jpg",
     inStock: true,
   },
   {
@@ -30,7 +31,8 @@ export const products: Product[] = [
     description:
       "High-quality white cement for decorative finishes and architectural applications.",
     price: "₹550 - ₹600 per bag",
-    image: "../assets/mycem.jpeg",
+    image:
+      "https://snapdevelopmentstorage.blob.core.windows.net/account-1/9aROlr1Y-deda7rS8CSUM/mycem.jpeg",
     inStock: true,
   },
   {
@@ -40,7 +42,8 @@ export const products: Product[] = [
     description:
       "Premium waterproofing chemical by UltraTech for terrace, basement, and bathroom applications. Prevents leakage and enhances durability.",
     price: "₹250 - ₹300 per liter",
-    image: "../assets/ultratech-waterproofing.jpg",
+    image:
+      "https://snapdevelopmentstorage.blob.core.windows.net/account-1/dJNkjhBFxzV9aBaMa2Y2N/ultratech-waterproofing.jpg",
     inStock: true,
   },
 
@@ -52,7 +55,8 @@ export const products: Product[] = [
     description:
       "High tensile strength TMT bars for reinforced concrete structures. Available in 8mm to 32mm diameters.",
     price: "₹60 - ₹70 per kg",
-    image: "../assets/iron.jpg",
+    image:
+      "https://snapdevelopmentstorage.blob.core.windows.net/account-1/OK92UCL813zFwM14tIEFj/iron.jpg",
     inStock: true,
   },
 
@@ -64,7 +68,8 @@ export const products: Product[] = [
     description:
       "Solid and hollow concrete blocks for walls and foundations. Available in various sizes.",
     price: "₹45 - ₹55 per piece",
-    image: "../assets/coverBlock.png",
+    image:
+      "https://snapdevelopmentstorage.blob.core.windows.net/account-1/TSsPrKLQ2SzxWnWyy5Os9/coverBlock.png",
     inStock: false,
   },
 
@@ -76,7 +81,8 @@ export const products: Product[] = [
     description:
       "Annealed binding wire for reinforcement tying and general construction use.",
     price: "₹80 - ₹90 per kg",
-    image: "../assets/witr.jpeg",
+    image:
+      "https://snapdevelopmentstorage.blob.core.windows.net/account-1/nbnAjasx4hcfxbi-zO0wZ/witr.jpeg",
     inStock: true,
   },
   {
@@ -86,7 +92,8 @@ export const products: Product[] = [
     description:
       "Pre-fabricated iron rings for column reinforcement, ensuring strength and ease of installation.",
     price: "₹100 - ₹120 per set",
-    image: "../assets/iron-rings.jpg",
+    image:
+      "https://snapdevelopmentstorage.blob.core.windows.net/account-1/Mv-OYmijrDro-Gbg3HFa8/iron-rings.jpg",
     inStock: true,
   },
 ];
